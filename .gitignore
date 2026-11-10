@@ -1,0 +1,21 @@
+# Ambientes Virtuais e Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.env
+.env
+.venv/
+env/
+venv/
+ENV/
+
+# Arquivos de Dados e Faturas Sensíveis
+faturas/
+*.pdf
+medidores.json
+screenshot*.png
+
+# Logs e IDE
+*.log
+.vscode/
+.idea/
